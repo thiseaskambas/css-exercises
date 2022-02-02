@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-/* grid-area: grid-row-start / grid-column-start / grid-row-end / grid-column-end */
+
 
 .container {
   text-align: center;
@@ -95,7 +95,7 @@
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   
   gap: 15px;
-  grid-column: 2 / 3;
+
 }
 
 .article p {
